@@ -14,5 +14,8 @@
     "uuid4": "^2.0"
   },
   "keywords": ["kopiya", "replika"],
-  "repository": "github:RodolfoFigueroa/KopiyaCommon"
+  "repository": "github:RodolfoFigueroa/KopiyaCommon",
+  "scripts": {
+    "test": "exit 0"
+  }
 }
